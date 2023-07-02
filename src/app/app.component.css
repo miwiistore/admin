@@ -1,0 +1,18 @@
+.login-section {
+    flex: 1 1 auto;
+}
+
+.main-container {
+    height: 100%;
+}
+
+.main-sidenav-content {
+    display: flex;
+    height: 100%;
+    padding: 1%;
+}
+
+.menu-sidenav {
+    user-select: none;
+    width: 10%;
+}
